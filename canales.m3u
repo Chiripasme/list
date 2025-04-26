@@ -13,21 +13,3 @@ https://photocalltv.org/h4tw/dmax.m3u8
 https://photocalltv.org/h4tw/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="Documentales", Televen
 https://photocalltv.org/h4tw/dmax.m3u8
-
-
-{
-        preview: '',
-        logo: 'https://i.imgur.com/USbmwiC.png'
-      },
-      {
-        preview: 'https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8',
-        logo: 'https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg'
-      },
-      {
-        preview: 'https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU1OTk2NjcsIm5iZiI6MTc0NTU5OTY2NywiZXhwIjoxNzQ1NjAwMDI3LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiNzkuMTE3LjE4MS41MyJ9.7pE9xLRKt58rS_grbR-Ru6L6AvkX02CY8l_1GzdGE5M/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd',
-        logo: 'https://graph.facebook.com/TelevenTV/picture?width=200&height=200'
-      },
-      {
-        preview: 'https://photocalltv.org/h4tw/dmax.m3u8',
-        logo: 'https://graph.facebook.com/TelevenTV/picture?width=200&height=200'
-      }
