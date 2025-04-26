@@ -5,7 +5,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg", History Channel
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General",Antena 3 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USbmwiC.png" ,Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="Documentales", Televen
 https://photocalltv.org/h4tw/dmax.m3u8
