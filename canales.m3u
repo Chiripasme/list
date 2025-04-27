@@ -5,7 +5,7 @@ https://rtve.es/ztnr/1688877.m3u8
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png", History Channel 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg", History Channel2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg", History Channel 2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/USbmwiC.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
