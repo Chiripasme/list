@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General", La 1
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png", La 1
 https://rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg", La 2
 http://185.189.225.150:85/TV2/index.m3u8
