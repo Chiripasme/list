@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News",3/24 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg", La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg", La 2
