@@ -7,7 +7,7 @@ http://185.189.225.150:85/TV2/index.m3u8
 https://cors-proxy.cooks.fyi/http://181.78.109.48:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg", History Channel 2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 group-title="TV ABIERTA", IMAGEN UNIVERSAL TV
+#EXTINF:-1 tv-logo="https://yt3.googleusercontent.com/ytc/AIdro_kLTdO4vCvvChEBLSY1xgxzlX5UqBsXwocV_Es5ifn3Y4s=s160-c-k-c0x00ffffff-no-rj", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/USbmwiC.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
