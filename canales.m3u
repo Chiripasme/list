@@ -19,6 +19,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="IZZITV",SONY 
 http://181.78.109.48:8000/play/a04v/index.m3u8
+#EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE
+http://181.78.109.48:8000/play/a05v/index.m3u8
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX
 http://190.60.50.83:18000/play/a08t
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
@@ -826,8 +828,7 @@ http://190.60.50.83:18000/play/a0ad
 http://181.78.105.146:8800/play/a02c
 #EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZITV",TCM O2
 http://190.60.50.83:18000/play/a06u
-#EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE
-http://181.78.109.48:8000/play/a05v/index.m3u8
+
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE O2
 
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY 
