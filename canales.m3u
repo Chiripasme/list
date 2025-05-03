@@ -21,10 +21,7 @@ http://181.78.109.48:8000/play/a04v/index.m3u8
 http://181.78.109.48:8000/play/a04t/index.m3u8
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="Peliculas",SPACE
 http://181.78.109.48:8000/play/a05v/index.m3u8
-#EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX
-http://190.60.50.83:18000/play/a08t
-#EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
-http://181.78.109.48:8000/play/a05o/index.m3u8
+
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="IZZITV",HBO 1 
 http://181.78.105.146:8800/play/a015
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="IZZITV",HBO 1 O2
@@ -85,6 +82,13 @@ http://playtv44.com:8080/eparra328/123123/52744
 http://playtv44.com:8080/eparra328/123123/52750
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="IZZITV",FOX Nt 1
 http://45.68.35.218:4001/play/a021/index.m3u8
+
+#EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX
+http://190.60.50.83:18000/play/a08t
+#EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
+http://181.78.109.48:8000/play/a05o/index.m3u8
+
+
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV
 http://160.20.165.246:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 
