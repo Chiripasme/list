@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 (720p)
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png", group-title="España",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", LA1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
