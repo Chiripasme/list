@@ -19,7 +19,7 @@ http://181.78.109.48:8000/play/a04v/index.m3u8
 http://190.60.50.83:18000/play/a08t
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
 http://181.78.109.48:8000/play/a05o/index.m3u8
-#EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 1 
+#EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="IZZITV",HBO 1 
 http://181.78.105.146:8800/play/a015
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 1 O2
 http://181.78.109.48:8000/play/a017/index.m3u8
