@@ -159,12 +159,6 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV
 http://160.20.165.246:8000/play/a009/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TUDN Usa
-http://200.115.120.1:8000/play/ca039/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TUDN
-http://181.78.105.146:8800/play/a07e
-
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
@@ -219,12 +213,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 5
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV ABIERTA", AZTECA 7
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
-
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV ABIERTA", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="TV ABIERTA", AZ+ 7.2 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
@@ -251,12 +239,6 @@ https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", PERIODISTAS MX
 https://ythls.armelin.one/channel/UCH4M_4Ed6SUidQthmZ60M2g.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", CLAUDIA SHEINBAUM PARDO
-https://ythls.armelin.one/channel/UC6mvc52_1j0okpAaXJj2c_Q.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
-https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", @PRENDE+
 https://stream.aprende.gob.mx/live/hls/index.m3u8
