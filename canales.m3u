@@ -3,7 +3,7 @@
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", LA1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-#EXTINF:-2 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2 (1080p)
+#EXTINF:-2 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png", group-title="España", La 2 (1080p)
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png", History Channel 
 https://cors-proxy.cooks.fyi/http://181.78.109.48:8000/play/a02b/index.m3u8
