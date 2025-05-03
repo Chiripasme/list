@@ -71,10 +71,6 @@ http://181.78.109.48:8000/play/a05d/index.m3u8
 http://181.78.105.146:8800/play/a05b
 #EXTINF:-1,  tvg-name="DISCOVERYTEAT"  tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="IZZITV",DISCOVERY TEATRO
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
-#EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="IZZITV",TUDN MX
-http://45.68.35.218:4001/play/a011/index.m3u8
-#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="IZZITV",TUDN USA
-http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="IZZITV",ESPN Nt 1
 http://181.78.109.48:8000/play/a05y/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="IZZITV",ESPN Nt 2
@@ -83,7 +79,3 @@ http://playtv44.com:8080/eparra328/123123/52744
 http://playtv44.com:8080/eparra328/123123/52750
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="IZZITV",FOX Nt 1
 http://45.68.35.218:4001/play/a021/index.m3u8
-#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN
-http://45.68.35.218:4001/play/a01u/index.m3u8
-#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN O2 
-http://cord-cutter.net:8080/Rme2Fg/183926/11885
