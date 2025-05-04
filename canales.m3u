@@ -163,7 +163,7 @@ http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 #EXTINF:-1 tvg-id="ext" tvg-name="STINGRAY CLASSICA" tvg-logo="" group-title="TV ABIERTA",STINGRAY CLASSICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TELERITMO 6.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA",TELERITMO 6.3
+#EXTINF:-1 tvg-id="ext" tvg-name="TELERITMO 6.3" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="TV ABIERTA",TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DE PEL�CULA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="TV ABIERTA",DE PEL�CULA 
 http://190.60.38.114:1010/play/a08f/index.m3u
