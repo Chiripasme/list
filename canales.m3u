@@ -47,9 +47,9 @@ http://190.60.50.83:18000/play/a0ad
 http://181.78.105.146:8800/play/a02c
 #EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="INTERNACIONALES",TCM
 http://190.60.50.83:18000/play/a06u
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYCH" tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="INTERNACIONALES",DISCOVERYCH
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYCH" tvg-logo="https://www.miradasdoc.com/mdoc2022/wp-content/uploads/2016/10/discovery-channel-logo.png" group-title="INTERNACIONALES",DISCOVERYCH
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9815
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYCH" tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="INTERNACIONALES",DISCOVERYCH
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYCH" tvg-logo="https://www.miradasdoc.com/mdoc2022/wp-content/uploads/2016/10/discovery-channel-logo.png" group-title="INTERNACIONALES",DISCOVERYCH
 http://181.78.105.146:8800/play/a05a
 #EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="INTERNACIONALES",NATGEO
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
