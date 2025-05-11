@@ -5,6 +5,10 @@ https://cors-proxy.cooks.fyi/http://181.78.109.48:8000/play/a02b/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",SONY
 http://181.78.109.48:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV",SPACE
+http://181.78.109.48:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV",STARCHANNEL
+http://181.78.109.48:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="TV",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW Espa�ol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS",DW Espa�ol
@@ -94,10 +98,6 @@ http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9843
 http://181.78.109.48:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="TV",GOLDEN
 http://181.78.109.48:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV",SPACE
-http://181.78.109.48:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV",STARCHANNEL
-http://181.78.109.48:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GOLDENEDGE" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="TV",GOLDENEDGE
 http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="TV",FX
