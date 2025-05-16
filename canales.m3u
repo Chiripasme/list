@@ -7,17 +7,17 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 http://181.78.109.48:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV",SPACE
 http://181.78.109.48:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV",STARCHANNEL
+#EXTINF:-1 tvg-id="ext" tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV",STAR CHANNEL
 http://181.78.109.48:8000/play/a04t/index.m3u8
 #EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
 http://191.52.214.5:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="TV",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS",DW Espa�ol
+#EXTINF:-1 tvg-id="ext" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FR FRANCE24 UHD" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS",FR FRANCE24 UHD
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO
-http://181.78.105.146:8800/play/a015
+http://181.78.105.146:8800/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO
 http://181.78.109.48:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TV",HBO2
