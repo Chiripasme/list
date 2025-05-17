@@ -26,8 +26,8 @@ http://181.78.109.48:8000/play/a018/index.m3u8
 http://179.1.146.21:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
 http://181.78.109.48:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
-http://179.1.146.21:8000/play/a0ex/index.m3u8
+//#EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
+//http://179.1.146.21:8000/play/a0ex/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV",HBOPLUS
 http://181.78.109.48:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV",HBOPLUS
