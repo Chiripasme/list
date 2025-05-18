@@ -8,7 +8,7 @@ https://tvnoov.com/fadoo/dmax.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",SONY
 http://181.78.109.48:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV",SPACE
-http://181.78.109.48:8000/play/a05v/index.m3u8
+http://200.60.124.19:29000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV",SPACE
 http://38.180.133.31:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV",STAR CHANNEL
