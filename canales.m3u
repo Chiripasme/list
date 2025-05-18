@@ -13,6 +13,8 @@ http://181.78.109.48:8000/play/a04t/index.m3u8
 http://191.52.214.5:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="TV",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
+http://181.78.109.48:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FR FRANCE24 UHD" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS",FR FRANCE24 UHD
@@ -57,8 +59,7 @@ http://181.78.105.146:8800/play/a05a
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
 #EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
 http://181.78.109.48:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
-http://181.78.109.48:8000/play/a05d/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYWORLD" tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="TV",DISCOVERYWORLD
 http://181.78.105.146:8800/play/a05b
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTEAT" tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="TV",DISCOVERYTEAT
