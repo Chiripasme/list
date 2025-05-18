@@ -110,3 +110,5 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqRfehAE8Xgml3PrIX8e6aLKRLQullmfuPQ&usqp=CAU", Syfy
 http://190.123.90.146:8000/play/a01f/index.m3u8
+#EXTINF:0,tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg",Lifetime
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8
