@@ -57,14 +57,6 @@ http://181.78.105.146:8800/play/a05a
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
 #EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
 http://181.78.109.48:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIMALPLANET" tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="TV",ANIMALPLANET
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9812
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIMALPLANET" tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="TV",ANIMALPLANET
-http://201.182.248.254:8888/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYSCIENCE" tvg-logo="https://i.postimg.cc/qR37xMWk/DICVRYSCINC.png" group-title="TV",DISCOVERYSCIENCE
-http://181.78.105.146:8800/play/a00e
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
-http://190.60.38.114:1010/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
 http://181.78.109.48:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYWORLD" tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="TV",DISCOVERYWORLD
