@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=\"608cb6a653d4292662492534bfa3cab1\" tvg-chno=\"427\",WARNER
-http://187.249.112.44:9981/stream/channelid/649497696?profile=pass
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
 https://cors-proxy.cooks.fyi/http://181.78.109.48:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="TV",History Channel 2
