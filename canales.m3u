@@ -108,3 +108,5 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqRfehAE8Xgml3PrIX8e6aLKRLQullmfuPQ&usqp=CAU", Syfy
+http://190.123.90.146:8000/play/a01f/index.m3u8
