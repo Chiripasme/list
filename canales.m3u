@@ -98,3 +98,5 @@ http://181.78.109.48:8000/play/a03v/index.m3u8
 http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="TV",FX
 http://190.60.50.83:18000/play/a0aa
+#EXTINF:-1 tvg-id="ext" tvg-name="FashionTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="TV", Fashion Tv
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
