@@ -51,6 +51,11 @@ http://playtv44.com:8080/eparra328/123123/39371
 http://179.1.146.21:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOMND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="TV",HBOMND
 http://playtv44.com:8080/eparra328/123123/12340
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (576p)
+http://185.189.225.150:85/BOM/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
 http://181.78.105.146:8800/play/a04a
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
@@ -71,6 +76,15 @@ http://181.78.105.146:8800/play/a05a
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
 #EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
 http://181.78.109.48:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Entertainment",Mega (Spain) (576p)
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://i.imgur.com/D1pUrGC.png" group-title="Entertainment",Neox (576p)
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (Spain) (576p)
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name= "Redbull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -80,7 +94,7 @@ http://181.78.105.146:8800/play/a05b
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="TV",CINEMAX
 http://181.78.109.48:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="TV",COMEDYCENTRAL
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
 http://190.60.50.83:18000/play/a09e
 #EXTINF:-1 tvg-id="ext" tvg-name="DISTRITOCOMEDIA" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/logo-distrito-comedia.jpg" group-title="TV",DISTRITOCOMEDIA
 http://190.60.50.83:18000/play/a09u
@@ -90,6 +104,8 @@ http://190.60.50.83:18000/play/a09d
 http://190.60.50.83:18000/play/a08y
 #EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="TV",AMC
 http://190.60.38.114:1010/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Sports",FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FOXSPORTS" tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="DEPORTES",FOXSPORTS
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN
@@ -110,8 +126,8 @@ http://45.68.35.218:4001/play/a00i/index.m3u8
 http://190.60.50.83:18000/play/a0aa
 #EXTINF:-1 tvg-id="ext" tvg-name="FashionTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="TV", Fashion Tv
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VALE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="TV", VALE TV
-https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+:-1 tvg-id="ValeTV.ve" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="Undefined",Vale TV (480p) [Not 24/7]
+https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqRfehAE8Xgml3PrIX8e6aLKRLQullmfuPQ&usqp=CAU", Syfy
