@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Coleccion 007"
-
-
-#EXTINF:-1,tvg-logo="0000",007 - Dr. No (1962)
-#EXTINF:-1,tvg-logo="0000",007 - Desde Rusia con amor (1963)
-#EXTINF:-1,tvg-logo="0000",007 - Goldfinger (1964)
-#EXTINF:-1,tvg-logo="0000",007 - Thunderball (1965)
-#EXTINF:-1,tvg-logo="0000",007 - Sólo se vive dos veces (1967)
-#EXTINF:-1,tvg-logo="0000",007 - Al servicio secreto de su majestad (1969)
-#EXTINF:-1,tvg-logo="0000",007 - Los diamantes son para siempre (1971)
-#EXTINF:-1,tvg-logo="0000",007 - Vive y deja morir (1973)
-#EXTINF:-1,tvg-logo="0000",007 - El hombre de la pistola de oro (1974)
-#EXTINF:-1,tvg-logo="0000",007 - La espía que me amó (1977)
-#EXTINF:-1,tvg-logo="0000",007 - Moonraker (1979)
-#EXTINF:-1,tvg-logo="0000",007 - Sólo para tus ojos (1981)
-#EXTINF:-1,tvg-logo="0000",007 - Octopussy (1983)
-#EXTINF:-1,tvg-logo="0000",007 - A View To A Kill (1985)
-#EXTINF:-1,tvg-logo="0000",007 - The Living Daylights (1987)
-#EXTINF:-1,tvg-logo="0000",007 - Licencia para matar (1989)
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RH91m8H/007-Goldeneye.jpg",007 - Goldeneye (1995)
 http://archive.org/download/mio53_yopmail_1/1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNDknx3/007-El-ma-ana-nunca-muere.jpg",007 - El mañana nunca muere (1997)
