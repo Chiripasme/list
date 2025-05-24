@@ -55,6 +55,8 @@ http://playtv44.com:8080/eparra328/123123/12340
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (576p)
 http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1 tvg-id="IMAGEN UNIVERSAL TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kLTdO4vCvvChEBLSY1xgxzlX5UqBsXwocV_Es5ifn3Y4s=s160-c-k-c0x00ffffff-no-rj.png" group-title="Movies", IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
 http://181.78.105.146:8800/play/a04a
