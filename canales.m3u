@@ -27,6 +27,12 @@ http://181.78.109.48:8000/play/a05d/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FR FRANCE24 UHD" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS",FR FRANCE24 UHD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (576p)
+http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1 tvg-id="IMAGEN UNIVERSAL TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Movies", IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-name="MTV en espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="MUSICA",MTV en espanol
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8
 #EXTINF:0,tvg-logo="https://www.verfutbollibre.com/uploads/canal-hbo-online.jpg",HBO
@@ -51,12 +57,7 @@ http://playtv44.com:8080/eparra328/123123/39371
 http://179.1.146.21:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOMND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="TV",HBOMND
 http://playtv44.com:8080/eparra328/123123/12340
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (576p)
-http://185.189.225.150:85/BOM/index.m3u8
-#EXTINF:-1 tvg-id="IMAGEN UNIVERSAL TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Movies", IMAGEN UNIVERSAL TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
 http://181.78.105.146:8800/play/a04a
