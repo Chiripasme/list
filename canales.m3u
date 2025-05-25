@@ -143,7 +143,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 http://190.123.90.146:8000/play/a01f/index.m3u8
 #EXTINF:0,tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg",Lifetime
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="-",A&E
+#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
 http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
 http://80.80.91.195:8000/play/a0cz/index.m3u8
