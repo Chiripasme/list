@@ -14,7 +14,7 @@ https://cors-proxy.cooks.fyi/http://clubtv.link/may1705/phpcode/geomex.php?c=a04
 #EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="TV",GOLDEN
 http://80.80.91.195:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
-http://181.78.109.48:8000/play/a04v/index.m3u8
+http://80.80.91.195:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="TV", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV", SPACE
