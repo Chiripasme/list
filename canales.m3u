@@ -56,7 +56,7 @@ http://181.78.109.48:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV",HBOPLUS
 http://179.1.146.21:8000/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOXT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="TV",HBOXT
-http://playtv44.com:8080/eparra328/123123/39371
+http://80.80.91.195:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOSIG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="TV",HBOSIG
 http://179.1.146.21:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOMND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="TV",HBOMND
@@ -313,7 +313,7 @@ http://80.80.91.195:8000/play/a09p/index.m3u8
 http://80.80.91.195:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
 http://80.80.91.195:8000/play/a051/index.m3u8
-##EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
+##EXTINF:-1 tvg-id="ext" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV", History Channel HD 
 http://80.80.91.195:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="-",Home & Health HD
 http://80.80.91.195:8000/play/a09o/index.m3u8
