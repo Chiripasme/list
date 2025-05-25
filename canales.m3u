@@ -313,7 +313,7 @@ http://80.80.91.195:8000/play/a09p/index.m3u8
 http://80.80.91.195:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
 http://80.80.91.195:8000/play/a051/index.m3u8
-##EXTINF:-1 tvg-id="ext" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV", History Channel HD 
+#EXTINF:-1 tvg-id="ext" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV", History Channel HD 
 http://80.80.91.195:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="-",Home & Health HD
 http://80.80.91.195:8000/play/a09o/index.m3u8
