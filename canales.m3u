@@ -446,8 +446,6 @@ http://80.80.91.195:8000/play/a05q/index.m3u8
 http://80.80.91.195:8000/play/a0a7/index.m3u8
 #EXTINF:-1 group-title="-",VALLE VISION
 http://80.80.91.195:8000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="-",VENUS
-http://80.80.91.195:8000/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="-",WARNER HD
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="-",ZooMoo
