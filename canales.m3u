@@ -11,8 +11,8 @@ http://80.80.91.195:8000/play/a040/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
 https://cors-proxy.cooks.fyi/http://clubtv.link/may1705/phpcode/geomex.php?c=a043&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="TV", DMAX
-https://tvnoov.com/fadoo/dmax.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="TV",GOLDEN
+http://80.80.91.195:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
 http://181.78.109.48:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="TV", SONY CINE
@@ -129,8 +129,7 @@ http://190.60.50.83:18000/play/a08k
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9843
 #EXTINF:-1 tvg-id="ext" tvg-name="GOLDENPM" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="TV",GOLDENPM
 http://181.78.109.48:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="TV",GOLDEN
-http://181.78.109.48:8000/play/a03v/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="GOLDENEDGE" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="TV",GOLDENEDGE
 http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="TV",FX
