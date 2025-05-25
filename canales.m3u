@@ -108,11 +108,7 @@ http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="TV",CINEMAX
 http://181.78.109.48:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
-http://190.60.50.83:18000/play/a09e
-#EXTINF:-1 tvg-id="ext" tvg-name="DISTRITOCOMEDIA" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/logo-distrito-comedia.jpg" group-title="TV",DISTRITOCOMEDIA
-http://190.60.50.83:18000/play/a09u
-#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
-http://190.60.50.83:18000/play/a09d
+http://80.80.91.195:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" group-title="TV",AXN
 http://80.80.91.195:8000/play/a060/index.m3u8
 
