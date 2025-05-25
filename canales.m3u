@@ -27,6 +27,8 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/m
 http://191.52.214.5:8000/play/a01u/index.m3u8
 #EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
 http://38.180.133.31:8000/play/a0sz/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="TV",AMC
+http://80.80.91.195:8000/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="TV",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
@@ -112,9 +114,8 @@ http://190.60.50.83:18000/play/a09u
 #EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
 http://190.60.50.83:18000/play/a09d
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" group-title="TV",AXN
-http://190.60.50.83:18000/play/a08y
-#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="TV",AMC
-http://190.60.38.114:1010/play/a047/index.m3u8
+http://80.80.91.195:8000/play/a060/index.m3u8
+
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Sports",FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FOXSPORTS" tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="DEPORTES",FOXSPORTS
@@ -151,11 +152,7 @@ http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
 http://80.80.91.195:8000/play/a0cz/index.m3u8
 #EXTINF:-1 group-title="-",ALFA CANAL 29
-http://80.80.91.195:8000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="-",AMC HD
 http://80.80.91.195:8000/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="-",AXN HD
-http://80.80.91.195:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="-",AZ click HD
 http://80.80.91.195:8000/play/a0d6/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet
