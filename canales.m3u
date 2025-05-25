@@ -11,7 +11,7 @@ http://80.80.91.195:8000/play/a040/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
 http://80.80.91.195:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="TV",GOLDEN
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png" group-title="TV",GOLDEN
 http://80.80.91.195:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
 http://80.80.91.195:8000/play/a058/index.m3u8
