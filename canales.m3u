@@ -9,7 +9,7 @@ http://80.80.91.195:8000/play/a051/index.m3u8
 http://80.80.91.195:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="TV",History Channel 2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/d/df/20170318161116%21A%26E_Network_logo.svg" group-title="TV",A&E
 http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png" group-title="TV",GOLDEN
 http://80.80.91.195:8000/play/a04k/index.m3u8
