@@ -48,7 +48,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 #EXTINF:0,tvg-logo="https://www.verfutbollibre.com/uploads/canal-hbo-online.jpg",HBO
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO
-http://181.78.109.48:8000/play/a017/index.m3u8
+http://80.80.91.195:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TV",HBO2
 http://181.78.109.48:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TV",HBO2
