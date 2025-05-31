@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
-https://cors-proxy.cooks.fyi/http://181.78.109.48:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
@@ -45,8 +43,6 @@ http://185.189.225.150:85/BOM/index.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-name="MTV en espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="MUSICA",MTV en espanol
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8
-#EXTINF:0,tvg-logo="https://www.verfutbollibre.com/uploads/canal-hbo-online.jpg",HBO
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO
 http://80.80.91.195:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TV",HBO2
@@ -67,8 +63,6 @@ http://80.80.91.195:8000/play/a033/index.m3u8
 http://179.1.146.21:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOMND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="TV",HBOMND
 http://playtv44.com:8080/eparra328/123123/12340
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
 http://181.78.105.146:8800/play/a04a
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
@@ -143,12 +137,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 http://190.123.90.146:8000/play/a01f/index.m3u8
 #EXTINF:0,tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg",Lifetime
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="TV",A&E
-http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
 http://80.80.91.195:8000/play/a0cz/index.m3u8
-#EXTINF:-1 group-title="-",ALFA CANAL 29
-http://80.80.91.195:8000/play/a0d0/index.m3u8
 #EXTINF:-1 group-title="-",AZ click HD
 http://80.80.91.195:8000/play/a0d6/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet
@@ -203,8 +193,6 @@ http://80.80.91.195:8000/play/a03e/index.m3u8
 http://80.80.91.195:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="-",CineMax
 http://80.80.91.195:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central HD
-http://80.80.91.195:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="-",Concert Channel
 http://80.80.91.195:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="-",DHE HD
@@ -283,8 +271,6 @@ http://80.80.91.195:8000/play/a0d2/index.m3u8
 http://80.80.91.195:8000/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="-",Film & arts HD
 http://80.80.91.195:8000/play/a0cy/index.m3u8
-#EXTINF:-1 group-title="-",Golden
-http://80.80.91.195:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="-",Golden Premiere 2 HD
 http://80.80.91.195:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="-",Golden Premiere HD
@@ -293,12 +279,10 @@ http://80.80.91.195:8000/play/a02u/index.m3u8
 http://80.80.91.195:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="-",HBO Family HD
 http://80.80.91.195:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD
-http://80.80.91.195:8000/play/a02z/index.m3u8
+
+
 #EXTINF:-1 group-title="-",HBO Plus HD
 http://80.80.91.195:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="-",HBO XTREME
-http://80.80.91.195:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="-",HBO2 HD
 http://80.80.91.195:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="-",HCH- HON
@@ -365,10 +349,6 @@ http://80.80.91.195:8000/play/a0ek/index.m3u8
 http://80.80.91.195:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="-",SKY SPORT LA LIGA
 http://80.80.91.195:8000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title="-",SONY HD
-http://80.80.91.195:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",SPACE HD
-http://80.80.91.195:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="-",ST VISION
 http://80.80.91.195:8000/play/a0eu/index.m3u8
 #EXTINF:-1 group-title="-",STAR CHANNEL HD
@@ -443,4 +423,3 @@ http://80.80.91.195:8000/play/a0bu/index.m3u8
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="-",ZooMoo
 http://80.80.91.195:8000/play/a02k/index.m3u8
-
