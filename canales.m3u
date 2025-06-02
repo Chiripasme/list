@@ -34,7 +34,7 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/m
 http://191.52.214.5:8000/play/a01u/index.m3u8
 #EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
 http://38.180.133.31:8000/play/a0sz/index.m3u8
-#EXTINF:-1 group-title="-",WARNER HD
+#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL HD
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="TV",AMC
 http://80.80.91.195:8000/play/a0d0/index.m3u8
@@ -45,22 +45,22 @@ http://80.80.91.195:8000/play/a0a3/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FR FRANCE24 UHD" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS",FR FRANCE24 UHD
+#EXTINF:-1 tvg-id="ext" tvg-name="FR FRANCE24 UHD" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png" group-title="NOTICIAS",FR FRANCE24 UHD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="-",RT EN ESPAÑOL
+#EXTINF:-1 tvg-id="ext" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT EN ESPAÑOL
 http://80.80.91.195:8000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title="-",CNNE
+#EXTINF:-1 tvg-id="ext" tvg-name="CNNE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" group-title="NOTICIAS",CNNE
 http://80.80.91.195:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa HD
 http://80.80.91.195:8000/play/a0d3/index.m3u8
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (576p)
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine
 http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 tvg-id="IMAGEN UNIVERSAL TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Movies", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqRfehAE8Xgml3PrIX8e6aLKRLQullmfuPQ&usqp=CAU", Syfy
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", Syfy
 http://190.123.90.146:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqRfehAE8Xgml3PrIX8e6aLKRLQullmfuPQ&usqp=CAU", Syfy
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", Syfy
 http://80.80.91.195:8000/play/a04y/index.m3u8
 
 
@@ -72,7 +72,7 @@ http://181.78.109.48:8000/play/a018/index.m3u8
 http://179.1.146.21:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
 http://181.78.109.48:8000/play/a01a/index.m3u8
-//#EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
+#EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
 //http://179.1.146.21:8000/play/a0ex/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV",HBOPLUS
 http://181.78.109.48:8000/play/a019/index.m3u8
@@ -84,19 +84,24 @@ http://80.80.91.195:8000/play/a033/index.m3u8
 http://179.1.146.21:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HBOMND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="TV",HBOMND
 http://playtv44.com:8080/eparra328/123123/12340
-#EXTINF:-1 group-title="-",HBO Family HD
+#EXTINF:-1 tvg-id="ext" tvg-name="HBOFAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV",HBOFAM
 http://80.80.91.195:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus HD
+#EXTINF:-1 tvg-id="ext" tvg-name="HBOPLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV",HBOPLUS HD
 http://80.80.91.195:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="-",HBO2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TV",HBO2 HD
 http://80.80.91.195:8000/play/a030/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-name="MTV en espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="MUSICA",MTV en espanol
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8
-#EXTINF:-1 group-title="-",MTV 00s
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",nombre
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/250px-MTV_00s_remaster.png" group-title="",MTV 00s
 http://80.80.91.195:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="-",MTV 00s HD
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV 00s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/250px-MTV_00s_remaster.png" group-title="",MTV 00s HD
 http://80.80.91.195:8000/play/a09s/index.m3u8
 #EXTINF:-1 group-title="-",MTV 80s
 http://80.80.91.195:8000/play/a03r/index.m3u8
