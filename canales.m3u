@@ -23,8 +23,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://80.80.91.195:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV", SPACE
 http://80.80.91.195:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV", STAR CHANNEL
-http://181.78.109.48:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV", STAR CHANNEL HD
+http://80.80.91.195:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1280px-CinecanalLA.png", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
@@ -393,8 +393,7 @@ http://80.80.91.195:8000/play/a03g/index.m3u8
 http://80.80.91.195:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="-",ST VISION
 http://80.80.91.195:8000/play/a0eu/index.m3u8
-#EXTINF:-1 group-title="-",STAR CHANNEL HD
-http://80.80.91.195:8000/play/a056/index.m3u8
+
 #EXTINF:-1 group-title="-",SULA TV
 http://80.80.91.195:8000/play/a0e3/index.m3u8
 #EXTINF:-1 group-title="-",SUYAPA TV
