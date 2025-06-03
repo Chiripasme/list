@@ -103,7 +103,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 http://80.80.91.195:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV 00s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/250px-MTV_00s_remaster.png" group-title="",MTV 00s HD
 http://80.80.91.195:8000/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV 80s" tvg-logo="https://es.wikipedia.org/wiki/MTV_80s#/media/Archivo:MTV_80s_2022.png" group-title="",MTV 80s 
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="",MTV 80s 
 http://80.80.91.195:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" group-title="",MTV HD 
 http://80.80.91.195:8000/play/a042/index.m3u8
