@@ -122,11 +122,8 @@ http://80.80.91.195:8000/play/a09m/index.m3u8
 http://80.80.91.195:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="TV",TCM
 http://80.80.91.195:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="-",TLC
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="",TLC
 http://80.80.91.195:8000/play/a052/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="",UNIVERSAL CINEMA
 http://80.80.91.195:8000/play/a0a9/index.m3u8
