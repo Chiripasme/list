@@ -142,16 +142,16 @@ http://80.80.91.195:8000/play/a05q/index.m3u8
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9815
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
 http://181.78.105.146:8800/play/a05a
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
+http://80.80.91.195:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
+http://80.80.91.195:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYWORLD" tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="TV",DISCOVERYWORLD
 http://181.78.105.146:8800/play/a05b
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTEAT" tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="TV",DISCOVERYTEAT
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
 http://181.78.109.48:8000/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
-http://80.80.91.195:8000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
-http://80.80.91.195:8000/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="-",Discovery ID HD
 http://80.80.91.195:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="-",DHE HD
