@@ -115,45 +115,58 @@ http://80.80.91.195:8000/play/a0ev/index.m3u8
 http://80.80.91.195:8000/play/a05p/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
-http://181.78.105.146:8800/play/a04a
-#EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT
-http://181.78.109.48:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TNTseries" tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="TV",TNTseries
-http://181.78.109.48:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TNTseries" tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="TV",TNTseries
-http://190.60.50.83:18000/play/a0ad
+
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="TV",TNT HD
 http://80.80.91.195:8000/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TNTseries" tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="TV",TNTseries
 http://80.80.91.195:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="TV",TCM
 http://80.80.91.195:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="TV",TCM
-http://181.78.105.146:8800/play/a02c
-#EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="TV",TCM
-http://190.60.50.83:18000/play/a06u
 #EXTINF:-1 group-title="-",TLC
 http://80.80.91.195:8000/play/a052/index.m3u8
 
 
-#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="",UNIVERSAL CINEMA
 http://80.80.91.195:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" group-title="",UNIVERSAL COMEDY
 http://80.80.91.195:8000/play/a09x/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CRIME" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" group-title="",UNIVERSAL CRIME 
 http://80.80.91.195:8000/play/a09w/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="",UNIVERSAL PREMIERE 
 http://80.80.91.195:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Universal_Reality.svg/2560px-Universal_Reality.svg.png" group-title="",UNIVERSAL REALITY 
 http://80.80.91.195:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="-",Universal
+#EXTINF:-1 tvg-id="ext" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="",Universal TV 
 http://80.80.91.195:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYCH" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9815
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYCH" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="TV",DISCOVERY
 http://181.78.105.146:8800/play/a05a
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYWORLD" tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="TV",DISCOVERYWORLD
+http://181.78.105.146:8800/play/a05b
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTEAT" tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="TV",DISCOVERYTEAT
+http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
+http://181.78.109.48:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel
+http://80.80.91.195:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://80.80.91.195:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="-",Discovery ID HD
+http://80.80.91.195:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="-",DHE HD
+http://80.80.91.195:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-",DISC THEATHER HD
+http://80.80.91.195:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://80.80.91.195:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://80.80.91.195:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://80.80.91.195:8000/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
 #EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
@@ -179,28 +192,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYWORLD" tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="TV",DISCOVERYWORLD
-http://181.78.105.146:8800/play/a05b
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTEAT" tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="TV",DISCOVERYTEAT
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
-http://181.78.109.48:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel
-http://80.80.91.195:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel HD
-http://80.80.91.195:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="-",Discovery ID HD
-http://80.80.91.195:8000/play/a0a8/index.m3u8
-#EXTINF:-1 group-title="-",DHE HD
-http://80.80.91.195:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="-",DISC THEATHER HD
-http://80.80.91.195:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
-http://80.80.91.195:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-http://80.80.91.195:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
-http://80.80.91.195:8000/play/a0a5/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://i.imgur.com/D1pUrGC.png" group-title="Entertainment",Neox (576p)
 http://185.189.225.150:85/neox/index.m3u8
