@@ -152,30 +152,29 @@ http://181.78.105.146:8800/play/a05b
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
 http://181.78.109.48:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYTURBO" tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="TV",DISCOVERYTURBO
+http://80.80.91.195:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="",Discovery ID
 http://80.80.91.195:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/640px-Canal_DHE_logo.svg.png" group-title="",DHE 
 http://80.80.91.195:8000/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISC THEATHER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="",DISC THEATHER HD 
 http://80.80.91.195:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="",Discovery Science 
 http://80.80.91.195:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-http://80.80.91.195:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery World HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="",Discovery World HD 
 http://80.80.91.195:8000/play/a0a5/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
-#EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="TV",NATGEO
-http://181.78.109.48:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo HD
+#EXTINF:-1 tvg-id="ext" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TV",NATGEO
 http://80.80.91.195:8000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="-",National Geographic
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="TV",National Geographic 
 http://80.80.91.195:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="TV",Animal Planet 
 http://80.80.91.195:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/1024px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png" group-title="TV",Animal Planet HD
 http://80.80.91.195:8000/play/a0cw/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",
 
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Entertainment",Mega (Spain) (576p)
