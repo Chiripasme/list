@@ -204,8 +204,6 @@ http://80.80.91.195:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",
 
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="TV",CINEMAX
 http://181.78.109.48:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
@@ -221,27 +219,27 @@ http://45.68.35.218:4001/play/a021/index.m3u8
 http://playtv44.com:8080/eparra328/123123/52750
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="DEPORTES",ESPN
 http://181.78.109.48:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="",ESPN 
 http://80.80.91.195:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="-",ESPN  4 HD
-http://80.80.91.195:8000/play/a0dp/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-http://80.80.91.195:8000/play/a0db/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
-http://80.80.91.195:8000/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4
-http://80.80.91.195:8000/play/a0df/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5  HD
-http://80.80.91.195:8000/play/a0de/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
-http://80.80.91.195:8000/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="-",ESPN DEPORTES CAJA
-http://80.80.91.195:8000/play/a0el/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="",ESPN HD
 http://80.80.91.195:8000/play/a0dg/index.m3u8
-#EXTINF:-1 group-title="-",ESPNCOLOMBIA
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="",ESPN 2 HD
+http://80.80.91.195:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1024px-ESPN3_logo.svg.png" group-title="",ESPN 3 HD
+http://80.80.91.195:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="",ESPN 4 HD
+http://80.80.91.195:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="",ESPN 4
+http://80.80.91.195:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 5  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="",ESPN 5  HD
+http://80.80.91.195:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 6 HDESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="",ESPN 6 HD
+http://80.80.91.195:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN DEPORTES CAJA" tvg-logo="https://es.wikipedia.org/wiki/ESPN_Deportes#/media/Archivo:ESPN_Deportes.svg.png" group-title="",ESPN DEPORTES CAJA
+http://80.80.91.195:8000/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPNCOLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="",ESPNCOLOMBIA
 http://80.80.91.195:8000/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="-",EURO Channel
+#EXTINF:-1 tvg-id="ext" tvg-name="EURO Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1024px-Logo_Eurochannel.png" group-title="",EURO Channel
 http://80.80.91.195:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name= "Redbull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
