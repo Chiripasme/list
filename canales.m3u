@@ -61,8 +61,6 @@ http://80.80.91.195:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",CineMax
 http://80.80.91.195:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FR FRANCE24 UHD" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png" group-title="NOTICIAS",FR FRANCE24 UHD
@@ -218,10 +216,6 @@ http://80.80.91.195:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/960px-Babytvv.png" group-title="",Baby TV 
 http://80.80.91.195:8000/play/a02j/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="TV",CINEMAX
 http://181.78.109.48:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
@@ -272,8 +266,6 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="-",EWTN
-http://80.80.91.195:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Lifetime" tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg" group-title="",Lifetime
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Lifetime" tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg" group-title="",Lifetime
@@ -282,13 +274,13 @@ http://80.80.91.195:8000/play/a03o/index.m3u8
 http://80.80.91.195:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/250px-E%21_Logo_2012.svg.png", E! Entertairment HD 
 http://80.80.91.195:8000/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",El Gourmet https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="",El Gourmet 
 http://80.80.91.195:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",El Gourmet
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="",El Gourmet
 http://80.80.91.195:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",Star TVE HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="",Star TVE HD
 http://80.80.91.195:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",TVE
+#EXTINF:-1 tvg-id="ext" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="",TVE
 http://80.80.91.195:8000/play/a05x/index.m3u8
 
