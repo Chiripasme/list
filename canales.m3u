@@ -56,6 +56,10 @@ http://45.68.35.218:4001/play/a00i/index.m3u8
 http://80.80.91.195:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Golden Premiere HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="",Golden Premiere HD
 http://80.80.91.195:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Cinecanal_HD_2016.png" group-title="",CINECANAL HD
+http://80.80.91.195:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",CineMax
+http://80.80.91.195:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",
 
@@ -270,28 +274,21 @@ https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="-",EWTN
 http://80.80.91.195:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg", Lifetime
+#EXTINF:-1 tvg-id="ext" tvg-name="Lifetime" tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg" group-title="",Lifetime
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg", Lifetime
+#EXTINF:-1 tvg-id="ext" tvg-name="Lifetime" tvg-logo="https://www.cable10.com/imagenes/programacion/canales_0009s_0020_Layer%2066.jpg" group-title="",Lifetime
 http://80.80.91.195:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="-",HOLA! TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="",HOLA! TV HD
 http://80.80.91.195:8000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="E! Entertairment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/250px-E%21_Logo_2012.svg.png", E! Entertairment HD 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/250px-E%21_Logo_2012.svg.png", E! Entertairment HD 
 http://80.80.91.195:8000/play/a0cx/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",El Gourmet https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png
 http://80.80.91.195:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",El Gourmet
 http://80.80.91.195:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 group-title="-",CINECANAL HD
-http://80.80.91.195:8000/play/a059/index.m3u8
-
-#EXTINF:-1 group-title="-",CineMax
-http://80.80.91.195:8000/play/a05u/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Star TVE HD
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",Star TVE HD
 http://80.80.91.195:8000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="-",TVE
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="",TVE
 http://80.80.91.195:8000/play/a05x/index.m3u8
 
