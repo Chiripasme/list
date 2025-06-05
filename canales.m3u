@@ -252,10 +252,10 @@ http://80.80.91.195:8000/play/a0el/index.m3u8
 http://80.80.91.195:8000/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EURO Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1024px-Logo_Eurochannel.png" group-title="",EURO Channel
 http://80.80.91.195:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name= "Redbull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Deportes",Red Bull TV
+#EXTINF:-1 tvg-id="ext" tvg-name= "Redbull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="-",Home & Health HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV",Home & Health HD
 http://80.80.91.195:8000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FashionTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="TV", Fashion Tv
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
