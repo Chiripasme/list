@@ -235,7 +235,7 @@ http://80.80.91.195:8000/play/a0df/index.m3u8
 http://80.80.91.195:8000/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 6 HDESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="",ESPN 6 HD
 http://80.80.91.195:8000/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ESPN DEPORTES CAJA" tvg-logo="https://es.wikipedia.org/wiki/ESPN_Deportes#/media/Archivo:ESPN_Deportes.svg.png" group-title="",ESPN DEPORTES CAJA
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN DEPORTES CAJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1200px-ESPN_Deportes.svg.png" group-title="",ESPN DEPORTES CAJA
 http://80.80.91.195:8000/play/a0el/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPNCOLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="",ESPNCOLOMBIA
 http://80.80.91.195:8000/play/a0dr/index.m3u8
