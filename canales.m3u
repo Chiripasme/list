@@ -9,6 +9,12 @@ http://80.80.91.195:8000/play/a040/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="TV",History Channel 2
 http://80.80.91.195:8000/play/a04b/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
+http://191.52.214.5:8000/play/a01u/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
+http://38.180.133.31:8000/play/a0sz/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL HD
+http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/d/df/20170318161116%21A%26E_Network_logo.svg" group-title="TV",A&E
 http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/d/df/20170318161116%21A%26E_Network_logo.svg" group-title="TV",A&E HD
@@ -25,12 +31,6 @@ http://80.80.91.195:8000/play/a0d4/index.m3u8
 http://80.80.91.195:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV", STAR CHANNEL HD
 http://80.80.91.195:8000/play/a056/index.m3u8
-#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
-http://191.52.214.5:8000/play/a01u/index.m3u8
-#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
-http://38.180.133.31:8000/play/a0sz/index.m3u8
-#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL HD
-http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="TV",AMC
 http://80.80.91.195:8000/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="TV",Paramount
