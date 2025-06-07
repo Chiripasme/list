@@ -9,11 +9,11 @@ http://80.80.91.195:8000/play/a040/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/992px-History2_logo_%282022%29.svg.png" group-title="TV",History Channel 2
 http://80.80.91.195:8000/play/a04b/index.m3u8
-#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL
 http://191.52.214.5:8000/play/a01u/index.m3u8
-#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL
 http://38.180.133.31:8000/play/a0sz/index.m3u8
-#EXTINF:-1, tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL HD
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
 http://80.80.91.195:8000/play/a09q/index.m3u8
