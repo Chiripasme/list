@@ -151,13 +151,13 @@ http://80.80.91.195:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="",Universal TV 
 http://80.80.91.195:8000/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="TV",DISCOVERY
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/1024px-2016_Discovery_logo.svg.png" group-title="TV",DISCOVERY
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9815
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="TV",DISCOVERY
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/1024px-2016_Discovery_logo.svg.png" group-title="TV",DISCOVERY
 http://181.78.105.146:8800/play/a05a
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="TV",DISCOVERY
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/1024px-2016_Discovery_logo.svg.png" group-title="TV",DISCOVERY
 http://80.80.91.195:8000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="TV",DISCOVERY
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/1024px-2016_Discovery_logo.svg.png" group-title="TV",DISCOVERY
 http://80.80.91.195:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERYWORLD" tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="TV",DISCOVERYWORLD
 http://181.78.105.146:8800/play/a05b
