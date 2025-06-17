@@ -29,7 +29,7 @@ http://80.80.91.195:8000/play/a056/index.m3u8
 http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1024px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="TV",A&E HD
 http://80.80.91.195:8000/play/a0cz/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="TV", SPACE
+#EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="TV", SPACE
 http://80.80.91.195:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="TV",AMC
 http://80.80.91.195:8000/play/a0d0/index.m3u8
