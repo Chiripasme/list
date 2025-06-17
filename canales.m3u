@@ -23,7 +23,7 @@ http://80.80.91.195:8000/play/a058/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/250px-Sony_Movies_Logo.svg.png" group-title="TV", SONY MOVIES HD
 http://80.80.91.195:8000/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="TV", STAR CHANNEL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1024px-Star_Channel_2020.svg.png" group-title="TV", STAR CHANNEL HD
 http://80.80.91.195:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1024px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="TV",A&E
 http://80.80.91.195:8000/play/a04x/index.m3u8
