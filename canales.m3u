@@ -17,6 +17,8 @@ http://38.180.133.31:8000/play/a0sz/index.m3u8
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
 http://80.80.91.195:8000/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="",TLC
+http://80.80.91.195:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
 http://80.80.91.195:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="TV", SONY CINE
@@ -133,8 +135,7 @@ http://80.80.91.195:8000/play/a09m/index.m3u8
 http://80.80.91.195:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="TV",TCM
 http://80.80.91.195:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="",TLC
-http://80.80.91.195:8000/play/a052/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="",UNIVERSAL CINEMA
 http://80.80.91.195:8000/play/a0a9/index.m3u8
