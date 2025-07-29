@@ -20,7 +20,7 @@ http://80.80.91.195:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL2
 http://190.0.241.181:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL3
-190.0.241.181:8000/play/a07g/index.m3u8
+https:190.0.241.181:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="",TLC
 http://80.80.91.195:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
