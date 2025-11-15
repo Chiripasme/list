@@ -16,7 +16,7 @@ http://38.180.133.31:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL HD
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
-http://lzbofddaxg.hfda48.com:8080/marcilloliss1/Uh3cF5yCAI/9636?token=TEZcAhJfFg1BAFABAgYGUAoOUQwCXVVSBlABUVQLDwoOBgFbWQBVD1oWGBpBQ0BWWFU6UVNHX1wFBQFNQEZKXEU7XQdDDRYCVw0GCQQVHhFNUQhdFV9UUgUFBVFaBQgAG0ZECgUVDhVbAwUIEBsQVkFMAEpZBAk6V1NBCAFWGwNZEVgPTRVbWTxQUVVTWVYRAxpVGhtHDBZDFA0PF19VFRUGXRcTVkBSQQ4WCQAEBxEVGgZXQgsRF0oUDUMwfBsVFQFMFwRZR14MWhYCEENBERUaDEtoFwAWR0RSAA9WSxsNRgRBTRVZVhtrV1dcWVdQTVEKVkRHX0cAFBtDD1xXUEMLRjwRXlAVWRYFCgoEAhFE
+http://lzbofddaxg.hfda48.com:8080/marcilloliss1/Uh3cF5yCAI/9636
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="",TLC
 http://80.80.91.195:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
