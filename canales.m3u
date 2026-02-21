@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV",History Channel 
-https://cors-proxy.cooks.fyi/http://80.80.91.195:8000/play/a051/index.m3u8
+http://80.80.91.195:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="TV", History Channel HD 
-https://cors-proxy.cooks.fyi/http://80.80.91.195:8000/play/a040/index.m3u8
+http://80.80.91.195:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/992px-History2_logo_%282022%29.svg.png" group-title="TV",History Channel 2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/992px-History2_logo_%282022%29.svg.png" group-title="TV",History Channel 2
 http://80.80.91.195:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV", WARNER CHANNEL
@@ -16,7 +16,7 @@ http://38.180.133.31:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="WARNERCHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="TV", WARNER CHANNEL HD
 http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="TV",COMEDYCENTRAL
-https://cors-proxy.cooks.fyi/http://lzbofddaxg.hfda48.com:8080/marcilloliss1/Uh3cF5yCAI/9636
+http://lzbofddaxg.hfda48.com:8080/marcilloliss1/Uh3cF5yCAI/9636
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="",TLC
 http://80.80.91.195:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV", SONY
