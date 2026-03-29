@@ -29,3 +29,13 @@ https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png",ILCE
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
+#EXTINF:-1 tvg-logo="undefined",undefined
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
+#EXTINF:-1 tvg-logo="undefined",undefined
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-logo="undefined",undefined
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-logo="undefined",undefined
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="undefined",undefined
+https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
